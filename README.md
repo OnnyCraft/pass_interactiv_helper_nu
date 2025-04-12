@@ -1,5 +1,5 @@
-## Usage:
-  # nushell: 
+# Usage:
+  ### nushell: 
   nu /path/to/pw.nu
-  # -- first iteration: 
+  ### -- first iteration: 
   nushell: pass $"(nu /path/to/pw.nu)"
