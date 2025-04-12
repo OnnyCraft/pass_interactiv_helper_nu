@@ -1,2 +1,3 @@
 Usage:
-  nushell: pass $"(nu /path/to/pw.nu)"
+  nushell: nu /path/to/pw.nu
+  # first iteration: nushell: pass $"(nu /path/to/pw.nu)"
